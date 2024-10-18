@@ -1,0 +1,56 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/Other/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 8 janv. 2024, 12:00:01
+    Author     : leelo
+*/
+
+.tNom{
+    -fx-background-color: white;
+    -fx-border-color: red;
+    -fx-border-width: 2px; 
+    -fx-border-radius: 20px;
+}
+/*cestGagne*/
+.titre{    
+    -fx-font-size: 30px;
+    -fx-font-family: 'lucida fax';
+    -fx-font-weight: bold;
+    -fx-alignment: center;
+}
+
+.regles{
+    -fx-font-size: 20px;
+    -fx-font-family: 'lucida fax';
+    -fx-alignment: center;
+    
+}
+
+.reponse{
+    -fx-font-size: 25px;
+    -fx-font-family: 'lucida fax';
+    -fx-alignment: center;
+}
+
+.question{
+    -fx-font-size: 20px;
+    -fx-font-family: 'lucida fax';
+    -fx-alignment: center;
+}
+
+.newPartie{
+    -fx-background-radius: 20px;
+    -fx-font-family: 'lucida fax'; 
+    -fx-text-fill: white;
+    -fx-font-size: 20px;
+    -fx-text-fill: white; 
+    -fx-background-color: #b22222;
+    -fx-padding: 15; 
+    -fx-border-color: black;
+    -fx-border-width: 2px; 
+    -fx-border-radius: 20px;
+}
+
+
